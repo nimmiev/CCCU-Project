@@ -3,6 +3,8 @@ Core PHP Website
 
 live site link: https://www.cccu.mu/
 
+Skills: HTML, CSS, JS, AJAX, PHP, MySQL
+
 The website for the Cooperative Credit Union of Mauritius (CCCU) is a CMS website. The CCCU website other features are multilanguage integration, online forms, educational meeting assistance, etc. The project modules are end users and admin. The website have login feature for existing end users.
 
 The website for the Cooperative Credit Union of Mauritius (CCCU) offers various features to cater to its members and potential members. Here's an outline of the features you might find on the CCCU website, along with detailed explanations:
@@ -94,6 +96,9 @@ The member area is exclusive to CCCU members, providing access to member-specifi
 
 #### Educational Meeting
 The assistance of the educational meeting and details.
+
+#### Multilanguage Integration
+The admin and client website works in French and English.
 
 ## The admin panel
 The admin panel admin can manage CMS contents and images, New member application users management - approval,reject,and view, loan application member manage - approval,reject,and view, All users management, educational meeting management - add, edit, delete, and accept/reject users.
